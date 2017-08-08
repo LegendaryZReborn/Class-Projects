@@ -1,0 +1,12 @@
+Welcome Cavaughn Browne's Make New Friends Program!
+This program reads in an adjacency list of peple into a Graph
+and then makes introductions between the people who don't
+already know each on the list.
+
+Introductions:
+
+Bob is introduced to Kate.
+Ann is introduced to Beth.
+Mark is introduced to Beth.
+
+Thank You for using Cavaughn Browne's Make New Friends Program.

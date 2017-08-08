@@ -1,0 +1,64 @@
+Cavaughn Browne
+Set Manipulation
+
+Choice: 1
+Initialize Set 0
+
+Choice: 1
+Initialize Set 1
+
+Choice: 2
+Set0 was cleared
+
+Choice: 11
+Prints a sets
+Set is empty!
+
+Choice: 1
+Initialize Set 0
+
+Choice: 3
+Check Size 
+Set size: 5
+
+Choice: 4
+Add item
+Item added: 4
+
+Choice: 11
+Prints a sets
+Set1 = {4 , 7 , 6 , 5 , 3 , 2 }
+
+Choice: 5
+Remove item
+Item removed: 4
+
+Choice: 6
+Checks for item
+Item 7is in the set.
+
+Choice: 7
+Unions the two sets
+Result of Union: Set 2 = {7 , 6 , 5 , 3 , 2 , 4 , 1 }
+
+Choice: 8
+Intersects the two sets
+Result of Intersection: Set 2 = {3 , 2 }
+
+Choice: 9
+Finds the difference of the two sets
+Result of Difference: Set 2 = {7 , 6 , 5 }
+
+Choice: 10
+Finds the difference of the two sets
+Result of Difference: Set 2 = {4 , 1 }
+
+Choice: 11
+Prints a sets
+Set0 = {4 , 3 , 2 , 1 }
+
+Choice: 11
+Prints a sets
+Set1 = {7 , 6 , 5 , 3 , 2 }
+
+Choice: 12

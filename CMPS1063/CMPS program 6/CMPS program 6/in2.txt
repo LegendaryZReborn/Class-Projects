@@ -1,0 +1,5 @@
+    ( 10 10 200 200 oval
+  ( 20 20 200 200 oval
+( 5 5 100 100 rectangle ( 5 5 50 50 oval ) )
+( 0 0 150 150 oval ]
+( 10 10 20 20 rectangle ]

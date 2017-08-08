@@ -1,0 +1,9 @@
+C:\Users\Cavaughn\Documents\Visual Studio 2015\Projects\CMPS4143\Painter\Painter\bin\Debug\Painter.exe.config
+C:\Users\Cavaughn\Documents\Visual Studio 2015\Projects\CMPS4143\Painter\Painter\bin\Debug\Painter.exe
+C:\Users\Cavaughn\Documents\Visual Studio 2015\Projects\CMPS4143\Painter\Painter\bin\Debug\Painter.pdb
+C:\Users\Cavaughn\Documents\Visual Studio 2015\Projects\CMPS4143\Painter\Painter\obj\Debug\Painter.csprojResolveAssemblyReference.cache
+C:\Users\Cavaughn\Documents\Visual Studio 2015\Projects\CMPS4143\Painter\Painter\obj\Debug\Painter.Properties.Resources.resources
+C:\Users\Cavaughn\Documents\Visual Studio 2015\Projects\CMPS4143\Painter\Painter\obj\Debug\Painter.csproj.GenerateResource.Cache
+C:\Users\Cavaughn\Documents\Visual Studio 2015\Projects\CMPS4143\Painter\Painter\obj\Debug\Painter.exe
+C:\Users\Cavaughn\Documents\Visual Studio 2015\Projects\CMPS4143\Painter\Painter\obj\Debug\Painter.pdb
+C:\Users\Cavaughn\Documents\Visual Studio 2015\Projects\CMPS4143\Painter\Painter\obj\Debug\Painter.Painter.resources

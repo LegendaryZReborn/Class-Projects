@@ -1,0 +1,20 @@
+Cavaughn Browne
+Program 1 - LinearInterpolation.cpp
+This program reads in a number of pairs of x,y
+values (maximum 10) and stores them in a 2
+dimensional array It prints out the said
+input table to screen and output file. It
+then accepts a user input of an x value
+that exists between the x values in the
+table and calculates the corresponding y value.
+The x value and y value are then printed to an
+output file and to the screen.
+
+Input Table
+x     5.5     6.2       7     7.5     8.1     8.8       9
+y     6.4     7.8       9    11.9    12.5    13.3      14
+
+ x       y
+6.6, 8.4000
+ x       y
+8.5, 12.9571

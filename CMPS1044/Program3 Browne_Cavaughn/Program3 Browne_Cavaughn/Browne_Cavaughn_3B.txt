@@ -1,0 +1,6 @@
+Cavaughn Browne
+
+Lines     # of Evens    # of Positives    Sum of Odds     Any zeroes
+1                  6                 8            10             Yes
+2                  6                 6           -12             Yes
+3                  0                 6             0              No

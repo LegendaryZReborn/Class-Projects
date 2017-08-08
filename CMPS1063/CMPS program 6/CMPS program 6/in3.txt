@@ -1,0 +1,12 @@
+    ( 10 10 240 240 rectangle
+      ( 0 0 240 240 oval
+         ( 20 20 200 200 rectangle
+            ( 0 0 200 200 oval
+               ( 20 20 160 160 rectangle
+                  ( 0 0 160 160 oval )
+                  ( 20 20 120 120 rectangle
+                     ( 0 0 120 120 oval ) ) )
+               ( 20 20 70 70 rectangle
+                  ( 0 0 70 70 oval ]
+
+    ( 0 0 10 10 oval ]

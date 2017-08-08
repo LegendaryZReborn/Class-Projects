@@ -1,0 +1,54 @@
+Cavaughn Browne
+Set Manipulation
+
+Choice: 1
+Initialize Set 0
+
+Choice: 1
+Initialize Set 1
+
+Choice: 7
+Unions the two sets
+Result of Union: Set 2 = {3 , 6 , 9 , 4 , 8 , 12 , 16 }
+
+Choice: 8
+Intersects the two sets
+Result of Intersection: Set 2 = {12 }
+
+Choice: 4
+Add item
+Item added: 24
+
+Choice: 11
+Prints a sets
+Set0 = {24 , 12 , 9 , 6 , 3 }
+
+Choice: 8
+Intersects the two sets
+Result of Intersection: Set 2 = {12 }
+
+Choice: 4
+Add item
+Item added: 24
+
+Choice: 8
+Intersects the two sets
+Result of Intersection: Set 2 = {12 , 24 }
+
+Choice: 9
+Finds the difference of the two sets
+Result of Difference: Set 2 = {4 , 8 , 16 }
+
+Choice: 10
+Finds the difference of the two sets
+Result of Difference: Set 2 = {3 , 6 , 9 }
+
+Choice: 11
+Prints a sets
+Set0 = {24 , 12 , 9 , 6 , 3 }
+
+Choice: 11
+Prints a sets
+Set1 = {24 , 16 , 12 , 8 , 4 }
+
+Choice: 12

@@ -1,0 +1,33 @@
+"A Certain Magical Index" by Kazuma Kamachi
+"Divergent" by Veronica Roth
+"Women's Voices Feminists Visions" by Susan M Shaw and Janet Lee
+"A Series of Unfortunate Events" by Lemony Snicket
+"Sword Art Online" by Reki Kawahara
+"Bleach" by Tite Kubo
+"Food Wars" by Yuto Tsukuda
+"An Abundance of Katherines" by Green, J.
+"One Piece" by Eichiro Oda
+"Naruto" by Masashi Kishimoto
+"Accel World" by Reki Kawahara
+"Animal Farm" by Orwell, G.
+"A Certain Scientific Railgun" by Kazuma Kamachi
+"The C Programming Language" by Kernighan, B. and Ritchie, D.
+END
+PRINT
+BORROW "One Piece"
+BORROW "Food Wars"
+BORROW "A Certain Magical Index"
+RETURN "Food Wars"
+BORROW "Naruto"
+RETURN "One Piece"
+SHELVE
+END
+RETURN "A Certain Magical Index"
+BORROW "A Certain Scientific Railgun"
+RETURN "Naruto"
+BORROW "Animal Farm"
+BORROW "Bleach"
+SHELVE
+END
+SHELVE
+END

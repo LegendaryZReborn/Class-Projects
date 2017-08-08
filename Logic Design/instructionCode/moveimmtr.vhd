@@ -1,0 +1,22 @@
+-- Quartus II VHDL Template
+
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity moveimmtr is
+
+	port
+	(
+		imm   : in std_logic_vector (7 downto 0);
+		to_reg : out std_logic_vector (7 downto 0)
+	);
+
+end entity;
+
+architecture rtl of moveimmtr is
+ 
+begin
+
+	to_reg <= imm;
+
+end rtl;

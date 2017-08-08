@@ -1,0 +1,12 @@
+C:\Users\Cavaughn\Documents\Visual Studio 2013\Projects\CMPS4143_BinaryCon\CMPS4143_BinaryCon\bin\Debug\CMPS4143_BinaryCon.exe.config
+C:\Users\Cavaughn\Documents\Visual Studio 2013\Projects\CMPS4143_BinaryCon\CMPS4143_BinaryCon\bin\Debug\CMPS4143_BinaryCon.exe
+C:\Users\Cavaughn\Documents\Visual Studio 2013\Projects\CMPS4143_BinaryCon\CMPS4143_BinaryCon\bin\Debug\CMPS4143_BinaryCon.pdb
+C:\Users\Cavaughn\Documents\Visual Studio 2013\Projects\CMPS4143_BinaryCon\CMPS4143_BinaryCon\obj\Debug\CMPS4143_BinaryCon.csprojResolveAssemblyReference.cache
+C:\Users\Cavaughn\Documents\Visual Studio 2013\Projects\CMPS4143_BinaryCon\CMPS4143_BinaryCon\obj\Debug\CMPS4143_BinaryCon.BinaryConverter.resources
+C:\Users\Cavaughn\Documents\Visual Studio 2013\Projects\CMPS4143_BinaryCon\CMPS4143_BinaryCon\obj\Debug\CMPS4143_BinaryCon.Properties.Resources.resources
+C:\Users\Cavaughn\Documents\Visual Studio 2013\Projects\CMPS4143_BinaryCon\CMPS4143_BinaryCon\obj\Debug\CMPS4143_BinaryCon.csproj.GenerateResource.Cache
+C:\Users\Cavaughn\Documents\Visual Studio 2013\Projects\CMPS4143_BinaryCon\CMPS4143_BinaryCon\obj\Debug\CMPS4143_BinaryCon.exe
+C:\Users\Cavaughn\Documents\Visual Studio 2013\Projects\CMPS4143_BinaryCon\CMPS4143_BinaryCon\obj\Debug\CMPS4143_BinaryCon.pdb
+C:\Users\Cavaughn\Documents\Visual Studio 2013\Projects\CMPS4143\CMPS4143_BinaryCon\CMPS4143_BinaryCon\bin\Debug\CMPS4143_BinaryCon.exe.config
+C:\Users\Cavaughn\Documents\Visual Studio 2013\Projects\CMPS4143\CMPS4143_BinaryCon\CMPS4143_BinaryCon\obj\Debug\CMPS4143_BinaryCon.exe
+C:\Users\Cavaughn\Documents\Visual Studio 2013\Projects\CMPS4143\CMPS4143_BinaryCon\CMPS4143_BinaryCon\obj\Debug\CMPS4143_BinaryCon.pdb

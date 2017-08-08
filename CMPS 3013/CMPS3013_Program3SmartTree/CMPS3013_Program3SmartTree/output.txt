@@ -1,0 +1,13 @@
+Is it an animal?
+Can it fly?
+falcon
+Can it swim?
+shark
+Is it a feline?
+Cat
+wolf
+Is it a plant?
+rose
+Is it considered food?
+chocolate
+building

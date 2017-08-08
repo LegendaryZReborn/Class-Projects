@@ -1,0 +1,42 @@
+Smith
+123456
+Smith qualified for premium checking.
+Interest: $8.21
+Closing Balance: $4319.61
+
+TowMater
+9819290
+TowMater qualified for premium checking.
+Interest: $1.85
+Closing Balance: $881.97
+
+Dax
+382950
+Dax did not qualify for premium checking.
+Interest: $0.00
+Closing Balance: $1553.29
+
+Janeway
+306948
+Janeway qualified for premium checking.
+Interest: $1.87
+Closing Balance: $1030.52
+
+Punjab
+132378
+Punjab did not qualify for premium checking.
+Interest: $0.00
+Closing Balance: $-1153.90
+
+Maxwell
+252149
+Maxwell qualified for premium checking.
+Interest: $14.90
+Closing Balance: $12077.40
+
+Joestar
+175483
+Joestar did not qualify for premium checking.
+Interest: $0.00
+Closing Balance: $879.24
+

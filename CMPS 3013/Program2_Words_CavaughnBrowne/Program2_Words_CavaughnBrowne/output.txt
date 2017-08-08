@@ -1,0 +1,29 @@
+Word Counter by Cavaughn Browne. 
+Word Counter is a program that reads words and turns em
+into numbers! Ok not really. It just counts how many
+of each word occurs in a given file of well...words.
+Sorry. Couldn't come up with any interesting scenarios.
+The End.
+
+a 2
+all 1
+an 1
+and 1
+as 4
+comments 1
+course 1
+explanation 1
+heading 3
+in 2
+include 2
+information 1
+name 1
+of 2
+output 1
+program 1
+programs 1
+should 2
+statements 1
+the 2
+well 2
+your 2

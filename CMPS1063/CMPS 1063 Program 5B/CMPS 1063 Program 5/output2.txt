@@ -1,0 +1,22 @@
+SHELF LIST
+A Certain Magical Index
+A Certain Scientific Railgun
+A Series of Unfortunate Events
+Accel World
+An Abundance of Katherines
+Animal Farm
+Bleach
+Divergent
+Food Wars
+Naruto
+One Piece
+Sword Art Online
+The C Programming Language
+Women's Voices Feminists Visions
+
+Put "Food Wars" after "Divergent"
+Put "One Piece" after "Food Wars"
+END
+Put "A Certain Magical Index" first
+Put "Naruto" after "Food Wars"
+END

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program4_BalancedTree_CavaughnBrowne", "Program4_BalancedTree_CavaughnBrowne\Program4_BalancedTree_CavaughnBrowne.vcxproj", "{1515F7F4-AEED-49E4-ADD6-4559CA0D62A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1515F7F4-AEED-49E4-ADD6-4559CA0D62A2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1515F7F4-AEED-49E4-ADD6-4559CA0D62A2}.Debug|Win32.Build.0 = Debug|Win32
+		{1515F7F4-AEED-49E4-ADD6-4559CA0D62A2}.Release|Win32.ActiveCfg = Release|Win32
+		{1515F7F4-AEED-49E4-ADD6-4559CA0D62A2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

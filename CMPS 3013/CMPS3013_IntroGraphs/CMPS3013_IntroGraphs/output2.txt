@@ -1,0 +1,89 @@
+Welcome Cavaughn Browne's Make New Friends Program!
+This program reads in an adjacency list of peple into a Graph
+and then makes introductions between the people who don't
+already know each on the list.
+
+Introductions:
+
+Anna is introduced to John.
+Allen is introduced to John.
+Anna is introduced to Peter.
+Allen is introduced to Peter.
+Anna is introduced to DeQuan.
+Allen is introduced to DeQuan.
+John is introduced to DeQuan.
+Peter is introduced to DeQuan.
+Anna is introduced to Dornelle.
+Allen is introduced to Dornelle.
+John is introduced to Dornelle.
+Peter is introduced to Dornelle.
+Anna is introduced to Tisha.
+Allen is introduced to Tisha.
+John is introduced to Tisha.
+Peter is introduced to Tisha.
+Dornelle is introduced to Tisha.
+Anna is introduced to Tyrone.
+Allen is introduced to Tyrone.
+John is introduced to Tyrone.
+Peter is introduced to Tyrone.
+DeQuan is introduced to Tyrone.
+Dornelle is introduced to Tyrone.
+Anna is introduced to Bob.
+Allen is introduced to Bob.
+John is introduced to Bob.
+Peter is introduced to Bob.
+DeQuan is introduced to Bob.
+Dornelle is introduced to Bob.
+Tisha is introduced to Bob.
+Tyrone is introduced to Bob.
+Anna is introduced to Sherri.
+Allen is introduced to Sherri.
+John is introduced to Sherri.
+Peter is introduced to Sherri.
+DeQuan is introduced to Sherri.
+Dornelle is introduced to Sherri.
+Tisha is introduced to Sherri.
+Tyrone is introduced to Sherri.
+Anna is introduced to Usain.
+Allen is introduced to Usain.
+John is introduced to Usain.
+Peter is introduced to Usain.
+DeQuan is introduced to Usain.
+Dornelle is introduced to Usain.
+Tisha is introduced to Usain.
+Tyrone is introduced to Usain.
+Sherri is introduced to Usain.
+Anna is introduced to Tyson.
+Allen is introduced to Tyson.
+John is introduced to Tyson.
+Peter is introduced to Tyson.
+DeQuan is introduced to Tyson.
+Dornelle is introduced to Tyson.
+Tisha is introduced to Tyson.
+Tyrone is introduced to Tyson.
+Bob is introduced to Tyson.
+Sherri is introduced to Tyson.
+Anna is introduced to Allison.
+Allen is introduced to Allison.
+John is introduced to Allison.
+Peter is introduced to Allison.
+DeQuan is introduced to Allison.
+Dornelle is introduced to Allison.
+Tisha is introduced to Allison.
+Tyrone is introduced to Allison.
+Bob is introduced to Allison.
+Tyson is introduced to Allison.
+Anna is introduced to Micheal.
+Allen is introduced to Micheal.
+John is introduced to Micheal.
+Peter is introduced to Micheal.
+DeQuan is introduced to Micheal.
+Dornelle is introduced to Micheal.
+Tisha is introduced to Micheal.
+Tyrone is introduced to Micheal.
+Bob is introduced to Micheal.
+Sherri is introduced to Micheal.
+Usain is introduced to Micheal.
+Tyson is introduced to Micheal.
+
+Thank You for using Cavaughn Browne's Make New Friends Program.

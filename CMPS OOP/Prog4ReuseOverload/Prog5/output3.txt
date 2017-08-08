@@ -1,0 +1,42 @@
+Cavaughn Browne
+Set Manipulation
+
+Choice: 1
+Initialize Set 0
+
+Choice: 1
+Initialize Set 1
+
+Choice: 8
+Intersects the two sets
+Result of Intersection: Set 2 = {10 , 20 , 30 , 40 }
+
+Choice: 7
+Unions the two sets
+Result of Union: Set 2 = {5 , 15 , 25 , 10 , 20 , 30 , 40 }
+
+Choice: 9
+Finds the difference of the two sets
+Result of Difference: Set 2 = {}
+
+Choice: 10
+Finds the difference of the two sets
+Result of Difference: Set 2 = {5 , 15 , 25 }
+
+Choice: 5
+Remove item
+Item removed: 10
+
+Choice: 5
+Remove item
+Item removed: 30
+
+Choice: 8
+Intersects the two sets
+Result of Intersection: Set 2 = {20 , 40 }
+
+Choice: 11
+Prints a sets
+Set0 = {40 , 25 , 20 , 15 , 5 }
+
+Choice: 12

@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'Decoder:D|instrC[0]'
+Slack : -7.932
+TNS   : -60.882
+
+Type  : Slow 1200mV 85C Model Setup 'Decoder:D|isSub'
+Slack : -4.874
+TNS   : -37.692
+
+Type  : Slow 1200mV 85C Model Setup 'exe'
+Slack : -1.076
+TNS   : -16.353
+
+Type  : Slow 1200mV 85C Model Setup 'instruction[0]'
+Slack : 0.223
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'instruction[0]'
+Slack : -2.857
+TNS   : -10.029
+
+Type  : Slow 1200mV 85C Model Hold 'Decoder:D|instrC[0]'
+Slack : -0.748
+TNS   : -4.029
+
+Type  : Slow 1200mV 85C Model Hold 'Decoder:D|isSub'
+Slack : 0.019
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'exe'
+Slack : 0.449
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'instruction[0]'
+Slack : -3.000
+TNS   : -50.890
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'exe'
+Slack : -3.000
+TNS   : -27.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Decoder:D|instrC[0]'
+Slack : 0.404
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Decoder:D|isSub'
+Slack : 0.473
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Decoder:D|instrC[0]'
+Slack : -7.099
+TNS   : -54.666
+
+Type  : Slow 1200mV 0C Model Setup 'Decoder:D|isSub'
+Slack : -4.378
+TNS   : -33.898
+
+Type  : Slow 1200mV 0C Model Setup 'exe'
+Slack : -0.893
+TNS   : -12.919
+
+Type  : Slow 1200mV 0C Model Setup 'instruction[0]'
+Slack : 0.276
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'instruction[0]'
+Slack : -2.596
+TNS   : -8.992
+
+Type  : Slow 1200mV 0C Model Hold 'Decoder:D|instrC[0]'
+Slack : -0.633
+TNS   : -3.311
+
+Type  : Slow 1200mV 0C Model Hold 'Decoder:D|isSub'
+Slack : 0.083
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'exe'
+Slack : 0.418
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'instruction[0]'
+Slack : -3.000
+TNS   : -45.339
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'exe'
+Slack : -3.000
+TNS   : -27.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Decoder:D|instrC[0]'
+Slack : 0.412
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Decoder:D|isSub'
+Slack : 0.449
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Decoder:D|instrC[0]'
+Slack : -4.573
+TNS   : -35.010
+
+Type  : Fast 1200mV 0C Model Setup 'Decoder:D|isSub'
+Slack : -2.451
+TNS   : -18.886
+
+Type  : Fast 1200mV 0C Model Setup 'exe'
+Slack : -0.709
+TNS   : -9.750
+
+Type  : Fast 1200mV 0C Model Setup 'instruction[0]'
+Slack : 0.043
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'instruction[0]'
+Slack : -1.639
+TNS   : -5.631
+
+Type  : Fast 1200mV 0C Model Hold 'Decoder:D|instrC[0]'
+Slack : -0.571
+TNS   : -3.418
+
+Type  : Fast 1200mV 0C Model Hold 'exe'
+Slack : 0.164
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Decoder:D|isSub'
+Slack : 0.177
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'instruction[0]'
+Slack : -3.000
+TNS   : -31.287
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'exe'
+Slack : -3.000
+TNS   : -29.609
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Decoder:D|isSub'
+Slack : 0.439
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Decoder:D|instrC[0]'
+Slack : 0.452
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,22 @@
+SHELF LIST
+A Tree Grows in Brooklyn
+Algorithms
+An Abundance of Katherines
+Animal Farm
+Anne of Green Gables
+City of Bones
+Enders Game
+Farenheit 451
+Hunger Games
+Jane Eyre
+Life of Pi
+Maltese Falcon
+The C Programming Language
+The Canterbury Tales
+
+Put "Algorithms" after "A Tree Grows in Brooklyn"
+Put "The C Programming Language" after "Maltese Falcon"
+END
+Put "Jane Eyre" after "Enders Game"
+Put "The Canterbury Tales after "The C Programming Language"
+END

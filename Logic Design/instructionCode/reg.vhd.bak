@@ -1,0 +1,28 @@
+-- Quartus II VHDL Template
+
+
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity reg is
+
+	(
+		upd		: in std_logic;
+		reg_in    : in std_logic_vector (7 downto 0);
+		reg_out	: out std_logic_vector (7 downto 0)
+	);
+
+end entity;
+
+architecture rtl of basic_shift_register is
+
+ signal stored: std_logic_vector(7 downto 0);
+begin
+
+	if(upd = '1') then
+		stored <= reg_in;
+	end if;
+	
+	reg_out <= stored;
+
+end rtl;
